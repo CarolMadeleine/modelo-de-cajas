@@ -1,0 +1,17 @@
+p{
+	font-family: verdana;
+	text-align: center;
+	border: dashed;
+	border-color: #377419;
+	background-color: white;
+	padding: 20px ;
+}
+
+div{
+	background: #F9CB9C;
+	padding: 40px 20px 70px 100px;
+	border-right: 10px solid blue;
+	border-left: 10px solid blue;
+	border-top:20px solid blue;
+	border-bottom: 20px solid blue;
+}
